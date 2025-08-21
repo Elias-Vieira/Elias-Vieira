@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Elias Vieira  
 
 🎓 Estudante de **Engenharia de Software** (3º período) na **UNIRV**  
-📅 Previsão de formatura: **2030**  
+📅 Previsão de formatura: **2028**  
 💻 Desenvolvedor apaixonado por criar **apps Android** e soluções práticas para o dia a dia  
 📱 Já possuo aplicativos publicados na **[Play Store](https://play.google.com/store/apps/dev?id=5428873003352000062)**  
 
