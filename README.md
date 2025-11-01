@@ -46,7 +46,7 @@
 ## 🔗 Contato  
 
 📧 **Email:** eliasvieirasd345@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/eliasvieira](www.linkedin.com/in/elias-vieira-5077342a6)  
+💼 **LinkedIn:** [linkedin.com/in/eliasvieira](www.linkedin.com/in/elias-vieira-dev)  
 📱 **WhatsApp:** [Clique aqui](https://wa.me/64999060333)  
 
 ---
